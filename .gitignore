@@ -1,0 +1,8 @@
+java/bin/
+java/target/
+*.classpath
+*.idea
+*.iml
+*.prefs
+*.project
+*.pyc
